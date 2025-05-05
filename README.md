@@ -20,7 +20,6 @@ Currently pursuing my B.S. in Cybersecurity at Illinois State University with a 
 - **Languages:** Python, Java  
 - **Concepts:** Scripting & Automation, Problem Solving, Networking, System Security  
 - **Hardware:** Raspberry Pi, Arduino  
-- **Tools:** Git & GitHub, Command Line, VS Code  
 - **Soft Skills:** Team Collaboration, Fast Learner, Strong Communication  
 
 ---
