@@ -1,4 +1,4 @@
-# Kamden Kimmel – Cybersecurity Student | Developer | Problem Solver
+# Kamden Kimmel
 
 **Gilman, IL**  
 **Cybersecurity Major @ Illinois State University**  
